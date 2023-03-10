@@ -1,2 +1,5 @@
 def main():
-    print 
+    for i in range(1,101):
+        print(i)
+
+main()
